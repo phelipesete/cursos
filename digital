@@ -1,0 +1,52 @@
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/brand.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+    <script src="https://kit.fontawesome.com/26d4a64054.js"></script>
+    <title>Bio</title>
+</head>
+<body>
+  <style>
+    /* Adiciona o efeito de flutuação à imagem */
+    .profile-picture {
+      animation: floatAnimation 3s infinite ease-in-out;
+    }
+
+    /* Define a animação de flutuação */
+    @keyframes floatAnimation {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-20px);
+      }
+    }
+  </style>
+
+
+<div class="profiledata">
+    <div class="profile-name"> Hello, I'm</div>
+    <div class="profile-name2"> Phelipe Sete </div>
+    <div class="profile-name3"> And I'm <span class="typing"></span></div>
+</div>    
+
+<script src="script.js"></script>
+<img class="profile-picture" src="https://github.com/phelipesete/img/assets/71620144/24361318-7061-419a-8d8a-7dc5f37d3ec5" alt="Profile Picture:)" >
+
+    <!-- Links-->
+        <a href="https://phelipesete.github.io/bio/?fbclid=PAZXh0bgNhZW0CMTEAAaZh0wmzjku26NGCP1g9p4x0yzEZVtzkSuwc9tRBqeCYnnixxqZH6Mxyhro_aem_3ioI4FZ86-ttde7jTzOokQ" class="links-github"><i class="fab fa-github"></i> Inicio</a>
+        <a href="https://pay.kiwify.com.br/ljl9bFH?afid=Yf3dK65M" class="links-instagram"><i class=""></i> Criador de Conteudo DARK </a>
+        <a href="https://pay.kiwify.com.br/XhmT4CD?afid=QErhRYxO" class="links-twitter"><i class="" aria-hidden="true"></i> Primeira Venda em 24h </a>
+        <a href="https://pay.kiwify.com.br/cTh1aoy?afid=NLV7qmpb" class="links-mail"><i class=""></i> Investidor em 1h </a>
+        <a href="https://pay.kiwify.com.br/ljl9bFH?afid=Yf3dK65M" class="links-github"><i class="fa fa-heart-o" aria-hidden="true"></i> Dominando a Animação  </a>
+        <a href="https://api.whatsapp.com/send?phone=5511941105539&text=" class="links-github"><i class="" aria-hidden="true"></i> Duvidas </a>
+       
+
+
+    <div class="bottom-text"><p class="copyright">voce em primeiro lugar © <a href="https://www.instagram.com/ilove.capybara/"> capybara :)</a></p></div>
+ 
+</body>
+</html>
